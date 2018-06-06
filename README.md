@@ -1,3 +1,3 @@
 # hello-world
-testing sectiion
+testing section
 [Quickie stuff]
